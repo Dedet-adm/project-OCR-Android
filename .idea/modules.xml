@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OCR.iml" filepath="$PROJECT_DIR$/.idea/modules/OCR.iml" group="OCR" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="OCR/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="project-OCR-Android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-OCR-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/project-OCR-Android.iml" group="project-OCR-Android" />
     </modules>
   </component>
 </project>
